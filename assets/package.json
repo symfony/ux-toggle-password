@@ -7,7 +7,7 @@
         "symfony-ux"
     ],
     "homepage": "https://ux.symfony.com/toggle-password",
-    "repository": "https://github.com/symfony/ux-toggle-password/tree/2.x",
+    "repository": "https://github.com/symfony/ux-toggle-password",
     "type": "module",
     "files": [
         "dist"
